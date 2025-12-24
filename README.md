@@ -2,8 +2,6 @@
 
 **WinProc** is a lightweight Windows process security auditing tool designed to help security researchers, Red Teams, and Blue Teams quickly identify potential privilege escalation vulnerabilities, configuration errors, and sensitive information leaks.
 
-Developed by **TimWhite** (Github: [timwhitez](https://github.com/timwhitez))
-
 ---
 
 ## 🚀 Features
@@ -93,4 +91,3 @@ This tool is for security research and authorized testing purposes only. Do not 
 ## 🔗 About
 
 *   **Author**: TimWhite
-*   **Github**: [https://github.com/timwhitez](https://github.com/timwhitez)
